@@ -101,5 +101,4 @@ I'd be happy if you explored the dashboard and shared your feedback.
 ## 📂 Project Files
 
 * [Power BI Dashboard (.pbix)](power_bi/dashboard.pbix)
-* [Open in Google Colab](ссылка_на_colab) — run interactively
 * [View Notebook (.ipynb)](notebooks/analysis.ipynb) — static view on GitHub
