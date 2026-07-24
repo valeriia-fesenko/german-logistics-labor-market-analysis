@@ -26,7 +26,7 @@ The objective was to analyze the German logistics labor market by answering ques
 
 Filters: Bundesland • Month • Salary Group • Education Level
 
-![Dashboard 1 — Job Market Overview](images/dashboard1_job_market_overview.png)
+![Dashboard 1 — Job Market Overview](dashboard1_job_market_overview.png)
 
 ### 🧩 Dashboard 2 — Skills Analysis
 
@@ -39,7 +39,7 @@ Filters: Bundesland • Month • Salary Group • Education Level
   * Driving License
 * Treemap of vacancies by city
 
-![Dashboard 2 — Skills Analysis](images/dashboard2_skills_analysis.png)
+![Dashboard 2 — Skills Analysis](dashboard2_skills_analysis.png)
 
 ### 📋 Dashboard 3 — Requirements & Employment Conditions
 
@@ -49,7 +49,7 @@ Filters: Bundesland • Month • Salary Group • Education Level
 * Employment types
 * KPI cards for total vacancies and detailed job descriptions
 
-![Dashboard 3 — Requirements & Employment Conditions](images/dashboard3_requirements.png)
+![Dashboard 3 — Requirements & Employment Conditions](dashboard3_requirements.png)
 
 ### 🔄 Dashboard 4 — Demand vs. Candidate Interest
 
@@ -61,7 +61,7 @@ This dashboard combines labor market data with Google Trends to compare employer
 * Monthly search KPIs
 * Average recruiting time
 
-![Dashboard 4 — Demand vs. Candidate Interest](images/dashboard4_demand_vs_interest.png)
+![Dashboard 4 — Demand vs. Candidate Interest](dashboard4_demand_vs_interest.png)
 
 ## ⚙️ Technical Highlights
 
