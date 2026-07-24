@@ -100,5 +100,5 @@ I'd be happy if you explored the dashboard and shared your feedback.
 
 ## 📂 Project Files
 
-* [Power BI Dashboard (.pbix)](power_bi/dashboard.pbix)
+* [Power BI Dashboard (.pbix)](logistic.pbix)
 * [View Notebook (.ipynb)](logistic_22_06.ipynb) — static view on GitHub
